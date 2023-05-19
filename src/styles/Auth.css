@@ -1,0 +1,22 @@
+.auth {
+    text-align: center;
+}
+
+.auth button {
+    width: 200px;
+    height: 50px;
+    border: none;
+    background-color: white;
+    color: #5982db;
+    border-radius: 8px;
+    font-size: 18px;
+    cursor: pointer;
+    border: 2px solid #2d4372;
+    box-shadow: 5px 5px #2f3135;
+}
+
+.auth p {
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+}
